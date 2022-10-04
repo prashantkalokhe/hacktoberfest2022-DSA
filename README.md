@@ -16,6 +16,8 @@ merging. Just follow the stated guidelines :-
 
 3. Codes containing advance DSA would be prefered to be merged sooner than the simple ARRAY program.
 
+4. Code should not be present in our repository already, and should not be copied.
+
 
 ## Tech Stack
 
